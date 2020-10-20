@@ -68,12 +68,19 @@ let studentlist =[
  console.log(studentlist[3].from);
  console.log(studentlist[4].hobby);
 
+let sport =[
+  {name:'野球',},
+  {name:'サッカー'},
+  ]
 
+console.log(sport[0].name);
 
+let sport[0].name =[
+  {name:'プロ野球'}
+  {name:'草野球'}
+]
 
-
-
-
+console.log(sport[0].name[0].name);
 
 
 
